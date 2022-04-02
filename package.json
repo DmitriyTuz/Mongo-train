@@ -1,0 +1,13 @@
+{
+  "name": "mongoapp",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.16.0",
+    "mongodb": "^3.1.0",
+    "mongoose": "^5.13.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4"
+  }
+}
